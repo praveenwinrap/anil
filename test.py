@@ -1,3 +1,4 @@
+#script to maintain specific files and delete others from hirechy
 paths =[]
 import os
 for dirpath, dirs, files in os.walk("."):
